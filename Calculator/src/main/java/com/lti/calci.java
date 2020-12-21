@@ -18,6 +18,7 @@ public class calci {
 		System.out.println("Diffrence= "+sub(10,20) );
 		System.out.println("Multiple= "+mul(10,20) );
 		System.out.println("Division= "+div(10,20) );
+		System.out.println("This is a basic Calculator ");
 	}
 
 }
